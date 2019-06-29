@@ -1,6 +1,9 @@
 {
   "name": "use-kbn",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "看板娘 react hook",
+  "license": "MIT",
+	"repository": "coolzilj/use-kbn",
   "main": "dist/index.js",
   "module": "dist/use-kbn.esm.js",
   "typings": "dist/index.d.ts",
